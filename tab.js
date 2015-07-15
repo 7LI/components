@@ -5,7 +5,7 @@
   @author <702368372atqqcom> lyz
  
   @usage
-    <div>
+    <div sg-tab>
       <div sg-tab-label=1>
       <div sg-tab-label=2>
       <div sg-tab-label=3>
